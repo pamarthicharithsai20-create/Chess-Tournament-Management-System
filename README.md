@@ -42,4 +42,4 @@ src/
 - Swiss tournament pairing
 - Player statistics
 - Match history
-- Authentication 
+- Authentication
