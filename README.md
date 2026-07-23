@@ -29,3 +29,17 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Project Structure
+
+src/
+├── App.svelte
+├── app.css
+└── main.js
+
+## Future Improvements
+
+- Swiss tournament pairing
+- Player statistics
+- Match history
+- Authentication
