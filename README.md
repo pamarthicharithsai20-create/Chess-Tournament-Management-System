@@ -33,6 +33,7 @@ npm run build
 ## Project Structure
 
 src/
+
 ├── App.svelte
 ├── app.css
 └── main.js
